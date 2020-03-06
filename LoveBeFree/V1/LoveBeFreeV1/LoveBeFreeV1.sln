@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "LoveBeFreeV1", "LoveBeFreeV1.phpproj", "{CDA43EFB-5698-4678-8E32-8CDC304FDF57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA43EFB-5698-4678-8E32-8CDC304FDF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA43EFB-5698-4678-8E32-8CDC304FDF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFE7B001-E261-4281-ADA9-CAEC26B77B2A}
+	EndGlobalSection
+EndGlobal
